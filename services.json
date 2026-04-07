@@ -1,0 +1,116 @@
+[
+  {
+    "id": "aula-inmersiva",
+    "name": "Aula Inmersiva",
+    "category": "Educativo",
+    "shortDescription": "Experiencias de aprendizaje guiadas con contenido interactivo y sesiones en vivo.",
+    "description": "Un servicio orientado a instituciones y estudiantes que combina rutas de aprendizaje, mentorias y paneles interactivos para fortalecer habilidades digitales en poco tiempo.",
+    "image": "https://placehold.co/400x240/F3B63A/112033?text=Aula+Inmersiva",
+    "location": "Bogota, Colombia",
+    "price": "Desde $120.000 COP",
+    "duration": "6 semanas",
+    "featured": true,
+    "benefits": [
+      "Rutas de aprendizaje personalizadas",
+      "Seguimiento del progreso por modulos",
+      "Acompanamiento con mentores"
+    ],
+    "tags": ["Aprendizaje", "Mentoria", "Bootcamp"],
+    "contactEmail": "educacion@poliservicehub.com"
+  },
+  {
+    "id": "laboratorio-no-code",
+    "name": "Laboratorio No-Code",
+    "category": "Tecnologico",
+    "shortDescription": "Creacion rapida de prototipos y automatizaciones para equipos pequenos.",
+    "description": "Permite a emprendimientos y areas operativas construir MVPs, formularios, dashboards y automatizaciones internas sin desarrollar una plataforma desde cero.",
+    "image": "https://placehold.co/400x240/0F8B8D/ffffff?text=No-Code+Lab",
+    "location": "Medellin, Colombia",
+    "price": "Desde $180.000 COP",
+    "duration": "4 semanas",
+    "featured": true,
+    "benefits": [
+      "Tableros visuales para seguimiento",
+      "Automatizaciones basicas integradas",
+      "Entrega de prototipo funcional"
+    ],
+    "tags": ["Automatizacion", "MVP", "Productividad"],
+    "contactEmail": "tech@poliservicehub.com"
+  },
+  {
+    "id": "ruta-ciudad-inteligente",
+    "name": "Ruta Ciudad Inteligente",
+    "category": "Turistico",
+    "shortDescription": "Experiencia turistica guiada con mapas interactivos y recomendaciones en tiempo real.",
+    "description": "Un recorrido tematico para visitantes que desean explorar espacios culturales, gastronomicos y tecnologicos con apoyo de contenido multimedia y georreferenciacion.",
+    "image": "https://placehold.co/400x240/F26A4B/ffffff?text=Ciudad+Inteligente",
+    "location": "Cartagena, Colombia",
+    "price": "Desde $95.000 COP",
+    "duration": "1 dia",
+    "featured": true,
+    "benefits": [
+      "Mapa digital del recorrido",
+      "Recomendaciones por perfil de visitante",
+      "Acceso a puntos de interes destacados"
+    ],
+    "tags": ["Turismo", "Experiencia", "Mapa"],
+    "contactEmail": "turismo@poliservicehub.com"
+  },
+  {
+    "id": "vitrina-comercial-360",
+    "name": "Vitrina Comercial 360",
+    "category": "Comercial",
+    "shortDescription": "Catalogo digital con soporte para promocionar productos y servicios de negocio.",
+    "description": "Ayuda a comercios y marcas a exhibir su portafolio mediante una vitrina digital adaptable, con llamados a la accion y seguimiento de interes de clientes.",
+    "image": "https://placehold.co/400x240/49617D/ffffff?text=Vitrina+360",
+    "location": "Cali, Colombia",
+    "price": "Desde $140.000 COP",
+    "duration": "3 semanas",
+    "featured": false,
+    "benefits": [
+      "Catalogo organizado por categorias",
+      "Llamados a la accion visibles",
+      "Panel de informacion comercial"
+    ],
+    "tags": ["Comercio", "Catalogo", "Promocion"],
+    "contactEmail": "comercial@poliservicehub.com"
+  },
+  {
+    "id": "asesoria-empleabilidad-digital",
+    "name": "Asesoria Empleabilidad Digital",
+    "category": "Educativo",
+    "shortDescription": "Preparacion de perfil profesional con simulaciones y revision de portafolio.",
+    "description": "Servicio para estudiantes y profesionales que necesitan fortalecer su marca personal, CV y presentacion de proyectos para procesos de seleccion digitales.",
+    "image": "https://placehold.co/400x240/F3B63A/112033?text=Empleabilidad",
+    "location": "Barranquilla, Colombia",
+    "price": "Desde $80.000 COP",
+    "duration": "2 semanas",
+    "featured": false,
+    "benefits": [
+      "Revision de hoja de vida",
+      "Simulacion de entrevista",
+      "Plan de mejora por competencias"
+    ],
+    "tags": ["Empleabilidad", "Portafolio", "Perfil"],
+    "contactEmail": "talento@poliservicehub.com"
+  },
+  {
+    "id": "experiencia-phygital",
+    "name": "Experiencia Phygital",
+    "category": "Tecnologico",
+    "shortDescription": "Activaciones hibridas para eventos con registro, agenda y dinamicas en vivo.",
+    "description": "Pensado para ferias, lanzamientos y encuentros academicos. Integra registro digital, tablero informativo y componentes interactivos para asistentes.",
+    "image": "https://placehold.co/400x240/0F8B8D/ffffff?text=Phygital",
+    "location": "Bucaramanga, Colombia",
+    "price": "Desde $210.000 COP",
+    "duration": "Evento puntual",
+    "featured": false,
+    "benefits": [
+      "Registro centralizado",
+      "Agenda con bloques interactivos",
+      "Soporte para dinamicas en vivo"
+    ],
+    "tags": ["Eventos", "Hibrido", "Interaccion"],
+    "contactEmail": "eventos@poliservicehub.com"
+  }
+]
